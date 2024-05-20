@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Dextro111
-- 👀 I’m a Front_End_Developer. Im interested in Mobile App Development.
-- 🌱 I’m currently learning Python Programming Language and also Back_end Developing.
+- 👀 I’m a Developer
+- 🌱 I’m currently learning Python Programming Language.
 - 💞️ I’m looking to collaborate on Projects of my Specification.
 - 📫 How to reach me @ My Email Handle : destinybishop49@gmail.com
 - 😄 Pronouns: He
